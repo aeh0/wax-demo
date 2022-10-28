@@ -10,6 +10,7 @@ layout: none
     "object_type": "poem",
     "description": "Manuscript, second draft, in ink, sent to Eleanor Farjeon in a letter dated 8 Feb 1916. Written in London. Archival ref: 424/2/97/1.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
     "permalink": "/edward/obj1",
     "lunr_id": 0
   },
@@ -21,6 +22,7 @@ layout: none
     "object_type": "poem",
     "description": "Manuscript draft in ink. Written at Royal Artillery School, Handel Street, London W.C. Archival ref: 424/2/134/1.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
     "permalink": "/edward/obj2",
     "lunr_id": 1
   },
@@ -32,6 +34,7 @@ layout: none
     "object_type": "letter",
     "description": "Letter from Edward Thomas to his wife, Helen Thomas. Archival reference: 424/1/1/1/1/2.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj3_001/full/250,/0/default.jpg",
     "permalink": "/edward/obj3",
     "lunr_id": 2
   },
@@ -43,6 +46,7 @@ layout: none
     "object_type": "letter",
     "description": "Letter from Edward Thomas to his wife, Helen Thomas. Archival reference: 424/1/1/1/1/1.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj4_001/full/250,/0/default.jpg",
     "permalink": "/edward/obj4",
     "lunr_id": 3
   },
@@ -54,6 +58,7 @@ layout: none
     "object_type": "photograph",
     "description": "Photos taken by Edward Thomas during a walking tour to Somerset and Wiltshire, in February and March 1913, and the basis of 'In Pursuit of Spring', published in 1914. Titles taken from Edward's captions on the reverse. 72 x 100mm. Archival ref: 424/8/1/14/9/56.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
     "permalink": "/edward/obj5",
     "lunr_id": 4
   },
@@ -65,6 +70,7 @@ layout: none
     "object_type": "photograph",
     "description": "Photos taken by Edward Thomas during a walking tour to Somerset and Wiltshire, in February and March 1913, and the basis of 'In Pursuit of Spring', published in 1914. Titles taken from Edward's captions on the reverse. 72 x 100mm. Archival ref: 424/8/1/14/9/1.",
     "collection": "edward",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
     "permalink": "/edward/obj6",
     "lunr_id": 5
   }
