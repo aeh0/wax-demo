@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Edward Thomas'
+description:      'Small demo made with Wax'
 url:              'https://aeh0.github.io'
 baseurl:          '/wax-demo'
 copyright:        'Example copyright org, 2019'
@@ -112,9 +112,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Parallax image demo'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Inline image and iframe demo'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
