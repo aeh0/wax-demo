@@ -16,7 +16,7 @@ Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor,
 
 Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
 
-<iframe src="https://universalviewer.io/uv.html?manifest=https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206143060002420/manifest?iiifVersion=2" width="800" height="600" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="[https://universalviewer.io/uv.html?manifest=https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206143060002420/manifest?iiifVersion=2#?c=0&m=0&s=0&cv=0&xywh=-1918%2C0%2C9883%2C4031)" width="100%" allowfullscreen="" frameborder="0"></iframe>
 
 Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
 
