@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Demo - inline parallax image'
+author: Alison Harvey
+publish_date: 2022-11-01
 permalink: /exhibits/a/
 ---
 
