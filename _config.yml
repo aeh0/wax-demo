@@ -114,7 +114,7 @@ menu:
     sub:
       - label: 'Parallax image demo'
         link: '/exhibits/a/'
-      - label: 'Inline image and iframe demo'
+      - label: 'Iframe demo'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
