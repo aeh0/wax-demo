@@ -1,8 +1,6 @@
 ---
 layout: exhibit
 title: 'Demo - inline parallax image'
-author: Alison Harvey
-publish_date: 2022-11-01
 permalink: /exhibits/a/
 ---
 
