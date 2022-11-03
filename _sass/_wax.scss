@@ -141,7 +141,6 @@ content section
 
   img {
     max-width: 100%;
-    float: left;
   }
 
   .footnotes ol {
@@ -250,8 +249,8 @@ content section
   @extend .container;
 
   margin: 0 auto;
-  max-width: 90%;
-  width: 1200px;
+  max-width: 120%;
+  width: $max-width;
   overflow: flex-wrap;
 }
 
