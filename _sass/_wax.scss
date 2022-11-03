@@ -157,6 +157,7 @@ content section
 
   #wax-content {
     min-height: 70vh;
+    width: 75%;
 
     .exhibit-meta {
       margin-bottom: $super-margin;
@@ -248,7 +249,7 @@ content section
 .wax-inline-container {
   @extend .container;
 
-  margin: 0 auto;
+  margin: auto;
   max-width: 90%;
   width: $max-width;
   overflow: flex-wrap;
