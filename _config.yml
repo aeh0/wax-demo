@@ -24,10 +24,6 @@ url:              'https://aeh0.github.io'
 baseurl:          '/wax-demo'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
-languages:        ['en', 'cy']
-default_lang:     'en'
-exclude_from_localization: ['', '']
-parallel_localization: true
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
