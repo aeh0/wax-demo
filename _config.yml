@@ -24,7 +24,6 @@ url:              'https://aeh0.github.io'
 baseurl:          '/wax-demo'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
-languages:        ['en', 'cy']
 
 
 # ---------------------------------------------------------------
